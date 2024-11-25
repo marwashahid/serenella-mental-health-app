@@ -23,4 +23,4 @@ This is our Final Year Project, it is a mental health application assistance for
 
 <h2>ARCHITECTURE DIAGRAM</h2>
 The Architecture Diagram for the project provides a description of app modules and features
-<img src="image.png"><br>
+<img src="architecture_diagram.png"><br>
